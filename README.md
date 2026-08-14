@@ -4,7 +4,7 @@
 ###  DEPARTMENT: Btech/CSE
 
 
-# EXPERIMENT--02-INTERFACING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-
+# EXPERIMENT 02 INTERFACING A DIGITAL INPUT TO IOT DEVELOPMENT BOARD
  
 
 ## Aim: 
@@ -172,8 +172,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## Output  :
+### SENSORS WITHOUT OBJECT DETECTION:
+
 
 <img width="425" height="757" alt="image" src="https://github.com/user-attachments/assets/5cda7029-243a-4980-8bde-b1e6caf55f4a" />
+
+### SENSORS WITH OBJECT DETECTION:
+
 
 <img width="447" height="797" alt="image" src="https://github.com/user-attachments/assets/68c390ce-4d01-4d7b-9833-af8aa2c7646d" />
 
